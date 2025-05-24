@@ -1,11 +1,11 @@
 # PUC-GO Projeto Integrador II-A
 
 Data de entrega: 
-- 23/06/2025
+  • 23/06/2025
 
 Orientações: 
-- O entregável desta atividade deve conter o projeto Java exportado da aplicação e o dump (arquivo .sql) do banco de dados devidamente populado.
-- Vídeo explicativo deve ser entregue na aba "Apresentação do PI"
+  • O entregável desta atividade deve conter o projeto Java exportado da aplicação e o dump (arquivo .sql) do banco de dados devidamente populado.
+  • Vídeo explicativo deve ser entregue na aba "Apresentação do PI"
 
 ## OBJETIVO
   
@@ -62,3 +62,13 @@ Orientações:
   3. Buscar um contato pelo nome.
   4. Listar todos os contatos.
   5. Sair do programa.
+
+
+## CRITÉRIOS PARA A AVALIAÇÃO
+  
+  • Implemente tratamento de exceções para lidar com casos como contatos inexistentes ou
+  operações inválidas.
+  • Ofereça uma interface amigável ao usuário para facilitar a interação com a agenda
+  telefônica.
+  • Teste o programa cuidadosamente para garantir que todas as funcionalidades estejam
+  corretamente implementadas e funcionando conforme o esperado.
